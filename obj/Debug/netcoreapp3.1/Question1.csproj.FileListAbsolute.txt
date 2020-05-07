@@ -1,0 +1,13 @@
+C:\codebitsacademy\classworks\LabTask13\Question1\obj\Debug\netcoreapp3.1\Question1.csprojAssemblyReference.cache
+C:\codebitsacademy\classworks\LabTask13\Question1\obj\Debug\netcoreapp3.1\Question1.csproj.CoreCompileInputs.cache
+C:\codebitsacademy\classworks\LabTask13\Question1\obj\Debug\netcoreapp3.1\Question1.AssemblyInfoInputs.cache
+C:\codebitsacademy\classworks\LabTask13\Question1\obj\Debug\netcoreapp3.1\Question1.AssemblyInfo.cs
+C:\codebitsacademy\classworks\LabTask13\Question1\bin\Debug\netcoreapp3.1\Question1.exe
+C:\codebitsacademy\classworks\LabTask13\Question1\bin\Debug\netcoreapp3.1\Question1.deps.json
+C:\codebitsacademy\classworks\LabTask13\Question1\bin\Debug\netcoreapp3.1\Question1.runtimeconfig.json
+C:\codebitsacademy\classworks\LabTask13\Question1\bin\Debug\netcoreapp3.1\Question1.runtimeconfig.dev.json
+C:\codebitsacademy\classworks\LabTask13\Question1\bin\Debug\netcoreapp3.1\Question1.dll
+C:\codebitsacademy\classworks\LabTask13\Question1\bin\Debug\netcoreapp3.1\Question1.pdb
+C:\codebitsacademy\classworks\LabTask13\Question1\obj\Debug\netcoreapp3.1\Question1.dll
+C:\codebitsacademy\classworks\LabTask13\Question1\obj\Debug\netcoreapp3.1\Question1.pdb
+C:\codebitsacademy\classworks\LabTask13\Question1\obj\Debug\netcoreapp3.1\Question1.genruntimeconfig.cache
